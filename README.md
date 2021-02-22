@@ -8,7 +8,7 @@
 
  -Steps to be followed to test the Novint Falcon functionality:
 
-  $ cd chai3d-3.0.0
+  $ cd chai3d-3.0.0         
   $ make
   $ cd bin/
   $ ./19-space
