@@ -1,4 +1,4 @@
-# Chai3D-NovintFalon
+# Chai3D+NovintFalon
 # Interfacing the Novint Falcon haptic device and testing its functionality with Chai3D:
 
 ➢ Download the compatible version of chai3D from the website
